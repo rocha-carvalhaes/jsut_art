@@ -71,8 +71,8 @@ def orquestrate_branches(total_length):
 
         for branch_id, branch_data in branches.items():
 
-            turtle.
+
 
             print(branch_id, branch_data)
 
-draw_branches(250)
+draw_until_break(0, -250, 90, 500, 25)
